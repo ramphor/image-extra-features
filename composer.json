@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/image-extra-features",
+    "description": "Lazy load, compress images, cloud integrated for WordPress images.",
+    "type": "library",
+    "license": "GPL-2",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
